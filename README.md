@@ -1,5 +1,5 @@
 # Hello I'm Sherom Granada
-## I'm currently a college student,
+## I'm currently a college student
 ### Eager to work as a Software Engineer in the future.
 <!--
 **SheromG/SheromG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

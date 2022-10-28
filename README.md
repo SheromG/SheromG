@@ -1,4 +1,4 @@
-# Hello I'm Sherom Granada
+# Hello, I'm Sherom Granada
 ## I'm currently a BSIT student
 ### Eager to work as a Software Engineer in the future.
 <!--

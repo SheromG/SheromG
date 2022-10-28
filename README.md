@@ -1,6 +1,7 @@
-### Hello I'm Sherom Granada
+## Hello I'm Sherom Granada
 
-# Future Software Engineer
+### I'm currently a college student,
+### Hoping to become Software Engineer
 <!--
 **SheromG/SheromG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

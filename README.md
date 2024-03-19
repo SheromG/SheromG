@@ -13,5 +13,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Visit my portfolio:</h3>
-https://portfolio-sheromg.vercel.app/
+<h3 align="center">Visit my portfolio: https://portfolio-sheromg.vercel.app/</h3>
+

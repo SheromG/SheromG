@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Sherom</h1>
 <h3 align="center">An aspiring Software Engineer from the Philippines</h3>
 
-<p align="left">
-</p>
 
 <p align="center"> 
   <h3>Tech Stack:</h3>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sherom</h1>
-<h3 align="center">An aspiring Software Engineer from the Philippines</h3>
+<h3 align="center">A Full Stack Developer from the Philippines</h3>
 
 <h3>Tech Stack:</h3>
 
@@ -11,5 +11,5 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Visit my portfolio: https://portfolio-sheromg.vercel.app/</h3>
+<h3 align="center">Visit my portfolio: https://portfolio-sheromgranada.vercel.app/</h3>
 
